@@ -1,1 +1,2 @@
 ﻿CheckingRule.xml格式说明。
+先按照规则分类。
