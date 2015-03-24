@@ -1,2 +1,3 @@
-﻿CheckingRule.xml格式说明。
+CheckingRule.xml格式说明。
 先按照规则分类。然后根据每个规则检查每个格的内容是否符合规范。
+具体规则：
