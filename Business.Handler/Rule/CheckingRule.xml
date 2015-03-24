@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Rules>
+  <Rule>
+    <Type>String</Type>
+    <IsNull>Y</IsNull>
+    <Note></Note>
+    <Locations>
+      <Loc>sheetname,1,A,60</Loc>
+      <Loc>sheetname,1+,B,40</Loc>
+    </Locations>
+  </Rule>
+  <Rule>
+    <Type>Date</Type>
+    <IsNull>Y</IsNull>
+    <Note></Note>
+    <Locations>
+      <Loc>sheetname,6,C</Loc>
+      <Loc>sheetname,12,H</Loc>
+    </Locations>
+  </Rule>
+</Rules>
